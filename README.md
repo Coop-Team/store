@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://store.coopbot.xyz"><img src="https://coopbot.xyz/images/coopbot.png" alt="Logo" width="25%" height="auto"></a>
 
-# Sous-domaine - Coop Store - Wiki
+  # Sous-domaine - Coop Store - Wiki
   [![Version](https://img.shields.io/badge/Version%20:-v1.0-6479ee?labelColor=23272A)](https://store.coopbot.xyz)
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
   [![Portfolio](https://img.shields.io/badge//doc&#8722;coopbot-3857ab)](https://github.com/20syldev/doc-coopbot)
